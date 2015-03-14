@@ -4,6 +4,6 @@ body {
   padding-bottom: 50px;
 }
 
-.navbar-nav > li > a {padding-top:5px !important; padding-bottom:5px !important;}
-.navbar {min-height:32px !important
+.jumbotron {
+	padding: 80px 0;
 }
